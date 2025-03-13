@@ -3,6 +3,7 @@ class Akash
 public static void main (String[] arr)
  {  int a = 10;
    int b = 10;
+   int c = (a+b)
  }
-    Sysytem.out.print(a+b);
+    Sysytem.out.print(c);
 }
