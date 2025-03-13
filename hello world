@@ -1,5 +1,5 @@
 class Akash
 {
 public static void main (String[] arr)
-    Sysytem.out.print("hello world");
+    Sysytem.out.print("hello ");
 }
