@@ -6,6 +6,6 @@ public static void main (String[] arr)
    int c = (a+b)
  }
 
-    Sysytem.out.print(c*10);
+    Sysytem.out.print(c*5);
 
 }
